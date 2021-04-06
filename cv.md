@@ -1,2 +1,3 @@
 hola este es mi cv
-dfgdf
+
+soy licho y me gusta cocinar
