@@ -9,3 +9,5 @@ Cuando trabajas en un proyecto propio tal vez te baste con crear una nueva rama 
 *$ git merge front-page*
 
 Pero, cuando estás trabajando como parte de un equipo, debes ser un poco más cuidadoso, es allí donde entra en juego el uso de los pull request, cada vez que creas un cambio, es recomendable subir al repositorio central la nueva rama de trabajo, digamos «front-page» y con un pull request estarías haciendo una petición de que esta rama sea incluida en master, entonces, de esta forma puedes dar una explicación mucho más detallada de lo que hace tu código (más allá del mensaje del commit) y la persona encargada de la integración puede descargar tu rama, probar los cambios y aprobar o rechazar la petición, según sea el caso, inclusive  dejar un comentario para que hagas algún arreglo si es requerido.
+
+Gracias!!

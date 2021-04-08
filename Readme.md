@@ -2,4 +2,4 @@
 
 [Mi curriculum!!](cv.md)
 
-[Informacion del pull](pull.md)
+[Queres saber del pull?](pull.md)
