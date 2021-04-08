@@ -1,3 +1,5 @@
-# ESTE ES EL LINK PARA MI CV
+# LINKS DEL TP1
 
-[Apreta aca!!](cv.md)
+[Mi curriculum!!](cv.md)
+
+[Informacion del pull](pull.md)

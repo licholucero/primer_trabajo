@@ -1,6 +1,9 @@
 Lisandro Lucero
 ============
 
+Contactos
+---------
+
 -------------------     ----------------------------
 tel:
 3512206205
@@ -18,33 +21,27 @@ pais: Alemania
 Educacion
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-2026 (expected)
+:   **PhD, Computer Science**; UTN (Corodba)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Soy re  bueno en la facu, me saque todos 10*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2014-2020
+:   **BSc, Computer Science and Electrical Engineering**; ITS Villada (Cordoba)
 
-    *Minor: Awesomeology*
+    *Tmabien era re bueno*
 
-Experience
+Experiecia
 ----------
 
-**Your Most Recent Work Experience:**
+**Mi mas reciente experiencia:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
+.
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
+**Otro trabajo que estuve**
 
 Also with a short description.
 
