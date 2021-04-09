@@ -1,7 +1,7 @@
-PEPE EL MAESTRO
+pepe el maestro
 ============
 
-Contactions
+Contactos
 ---------
 
 -------------------     ----------------------------
@@ -9,7 +9,7 @@ tel:
 3512206205
 
 mail:
-pepeelmaestro@gmail.com
+pepe1234@gmail.com
 
 direccion: Cordoba1234
 
@@ -18,7 +18,7 @@ inta:Licholucero_
 pais: Alemania
 -------------------     ----------------------------
 
-Educacitions
+Educacion
 ---------
 
 2021-2026 (expected)
@@ -31,7 +31,7 @@ Educacitions
 
     *Tmabien era re bueno*
 
-Expiercence
+Experiecia
 ----------
 
 **Mi mas reciente experiencia:**
