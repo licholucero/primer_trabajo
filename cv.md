@@ -1,7 +1,7 @@
-Lisandro Lucero
+PEPE EL MAESTRO
 ============
 
-Contactos
+Contactions
 ---------
 
 -------------------     ----------------------------
@@ -9,7 +9,7 @@ tel:
 3512206205
 
 mail:
-pepe1234@gmail.com
+pepeelmaestro@gmail.com
 
 direccion: Cordoba1234
 
@@ -18,7 +18,7 @@ inta:Licholucero_
 pais: Alemania
 -------------------     ----------------------------
 
-Educacion
+Educacitions
 ---------
 
 2021-2026 (expected)
@@ -31,7 +31,7 @@ Educacion
 
     *Tmabien era re bueno*
 
-Experiecia
+Expiercence
 ----------
 
 **Mi mas reciente experiencia:**
